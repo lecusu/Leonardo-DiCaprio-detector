@@ -14,7 +14,7 @@ Make sure you have Python installed on your machine. You can install all the req
 
 ```bash
 pip install streamlit torch torchvision pillow
-
+```
 ## How to Run the App
 
 1. Download or clone this repository to your local machine.
