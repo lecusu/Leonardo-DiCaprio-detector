@@ -14,3 +14,17 @@ Make sure you have Python installed on your machine. You can install all the req
 
 ```bash
 pip install streamlit torch torchvision pillow
+
+## How to Run the App
+
+1. Download or clone this repository to your local machine.
+2. Open your terminal and navigate to the project folder.
+3. Run the following command:
+```bash
+python -m streamlit run app.py
+```
+4. This will automatically launch the web application in your default web browser. Just upload an image and let the model do the rest!
+
+## File Structure
+* `app.py`: The main Streamlit application code.
+* `leo_model.pth`: The saved PyTorch weights for the trained ResNet18 model.
