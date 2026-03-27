@@ -1,6 +1,6 @@
 # Leonardo-DiCaprio-detector
 # Leo Detector: Is it Leonardo DiCaprio?
-
+For my obsession with Leo's movies, i represent you:
 A lightweight web application built with Python and Streamlit that uses a custom-trained PyTorch neural network (ResNet18) to detect whether an uploaded image contains Leonardo DiCaprio.
 
 ## Features
